@@ -4,8 +4,8 @@ A Flutter Project of Notes Taking App.
 
 ## Getting Started
 
-This project is a basic notes taking app built using flutter.
-(I've also attached the first version of the app in Releases)
+This project is a basic notes taking app built using flutter for android.
+(I've also attached the first version of the apk in Releases)
 
 References:
 
