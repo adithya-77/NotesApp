@@ -1,10 +1,10 @@
-# flutter_application_1
+# Notes App
 
-A new Flutter project.
+A Flutter Project of Notes Taking App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a basic notes taking app built using flutter
 
 A few resources to get you started if this is your first Flutter project:
 
