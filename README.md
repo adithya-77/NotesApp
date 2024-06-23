@@ -7,6 +7,7 @@ A Flutter Project of Notes Taking App.
 This project is a basic notes taking app built using flutter.
 (I've also attached the first version of the app in Releases)
 
+References:
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
